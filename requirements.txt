@@ -1,0 +1,16 @@
+# Core dependencies
+streamlit==1.35.0
+
+# Commonly used packages in Streamlit apps
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+
+# Optional: for model explainability
+shap
+
+# Optional: for uploading files
+openpyxl  # if working with Excel files
